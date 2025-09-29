@@ -1,5 +1,5 @@
 # CLI Calculator (Python)
-
+![CI](https://github.com/Tejen1710/cli-calculator/actions/workflows/ci.yml/badge.svg)
 
 A robust, fully-tested command-line calculator with an interactive REPL, built using best practices. Includes GitHub Actions CI with 100% coverage enforcement.
 
